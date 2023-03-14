@@ -52,13 +52,3 @@ class TemCSAPI {
 }
 
 export { TemCSAPI };
-
-// https://api.temcs.gg//api/v001/showcase/temtem/landing/categories?nolimit=true
-
-// https://api.temcs.gg//api/v001/showcase/temtem/landings?nolimit=true
-
-// https://api.temcs.gg//api/v001/showcase/temtem/landing/emea?allData=true
-// https://api.temcs.gg//api/v001/showcase/temtem/landing/pcfc?allData=true
-// https://api.temcs.gg//api/v001/showcase/temtem/landing/amer?allData=true
-// https://api.temcs.gg//api/v001/showcase/temtem/tournament/temcs-opening-tournament-1
-

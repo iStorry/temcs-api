@@ -1,6 +1,6 @@
 "use strict";
 
-import { RegistroParticipante, Seed, UniquePlayers } from "./interfaces/players";
+import { UniquePlayers } from "./interfaces/players";
 import { TemCSAPI } from "./utils/api";
 const api = new TemCSAPI();
 const allPlayers:UniquePlayers[] = [];
